@@ -1,2 +1,0 @@
-# All-programs
-Assigned programs
